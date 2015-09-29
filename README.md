@@ -3,4 +3,4 @@ A technique for implementing evaluators of various styles, independent of any pa
 
 This code has an accompanying explanatory blog post here:
 
-  http://languagengine.co/blog/generic-evaluation/
+  http://languagengine.co/blog/generic-evaluators/
